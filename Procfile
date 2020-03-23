@@ -1,1 +1,1 @@
-web: gunicorn CoronaClassifier.wsgi
+web: gunicorn CoronaClassifier.wsgi  --log-file -
