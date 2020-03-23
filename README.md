@@ -22,25 +22,25 @@ Using the Logistric regression and given dataset a multiclass model is trained. 
 >  **Accuracy:**
 > 
 > ![Model
-> Accuracy](https://raw.githubusercontent.com/adityap27/Corona-Classifier/master/model_accuracy.JPG)
+> Accuracy](https://raw.githubusercontent.com/adityap27/Corona-Classifier/master/readme-images/model_accuracy.JPG)
 
 
 > **Confusion Matrix:** 
 >
-> ![Confusion Matrix](https://raw.githubusercontent.com/adityap27/Corona-Classifier/master/confusion_matrix.JPG)
+> ![Confusion Matrix](https://raw.githubusercontent.com/adityap27/Corona-Classifier/master/readme-images/confusion_matrix.JPG)
 
 
 > **Precision and Re-Call:** 
 >
->![Precision and Recall](https://raw.githubusercontent.com/adityap27/Corona-Classifier/master/precision_recall.JPG)
+>![Precision and Recall](https://raw.githubusercontent.com/adityap27/Corona-Classifier/master/readme-images/precision_recall.JPG)
  
 **Note:** This model is trained on small dataset, so for now it shouldn't be used in real-world. (as COVID-19 is new, it's dataset is being developed with respect to time.)
 ## **2. Django Website (for user input)**
 **Main Form:**
-![Main Form](https://raw.githubusercontent.com/adityap27/Corona-Classifier/master/main_form.JPG)
+![Main Form](https://raw.githubusercontent.com/adityap27/Corona-Classifier/master/readme-images/main_form.JPG)
 
 **Prediction as per Logistic Regression Model: (for all input as yes)**
-![Output](https://raw.githubusercontent.com/adityap27/Corona-Classifier/master/output.JPG)
+![Output](https://raw.githubusercontent.com/adityap27/Corona-Classifier/master/readme-images/output.JPG)
 
 **Note:** This model is trained on small dataset, so for now it shouldn't be used in real-world. (as COVID-19 is new, it's dataset is being developed with respect to time.)
 
