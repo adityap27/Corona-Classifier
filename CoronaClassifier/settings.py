@@ -25,7 +25,7 @@ SECRET_KEY = '5mx958#eykvay^isc_vp16g=$%=yz=v0d*!kgjo4(ur^x+!af6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['corona-classifier.herokuapp.com']
 
 
 # Application definition
