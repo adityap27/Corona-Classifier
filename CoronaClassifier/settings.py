@@ -130,7 +130,6 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 MEDIA_ROOT  = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/ML model/'
 
-ALLOWED_HOSTS = ['corona-classifier.herokuapp.com']
 
 import dj_database_url 
 prod_db  =  dj_database_url.config(conn_max_age=500)
